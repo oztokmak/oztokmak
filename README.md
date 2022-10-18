@@ -9,7 +9,7 @@
 ### Reach Out To Me
 [<img height="22" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" aLign = "left" />][Gmail]
 [<img height="22" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" aLign = "left" />][LinkedIn]
-[<img height="22" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/hacerrank.svg" aLign = "left" />][HackerRank]
+[<img height="22" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/hackerrank.svg" aLign = "left" />][HackerRank]
 
 [Gmail]:oztokmak13@gmail.com
 [LinkedIn]:https://www.linkedin.com/in/%C3%B6mer-turan-%C3%B6ztokmak-a080221ab/
