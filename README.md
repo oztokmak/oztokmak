@@ -17,7 +17,7 @@
 
 <br />
 <br />
-### Tech I Use
+Tech I Use
 <br />
 <img height=42 src =https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png aLing = "left">
 <img height=42 src =https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/python/python.png  aLing = "left">
